@@ -1,0 +1,316 @@
+{
+  "file": "customer_005_en_safety_gnani_tts.wav",
+  "status": "ok",
+  "transcript": "my power bank is swelling up and smells like something is burning",
+  "stt": {
+    "request_ids": [
+      "req_74ebb92478f2"
+    ],
+    "segments": 1,
+    "language_code": "en-IN",
+    "latency_ms": 1517,
+    "mock": false
+  },
+  "tts": {
+    "voice": "Kaveri",
+    "language": "en-IN",
+    "model": "timbre-v2.5",
+    "latency_ms": 2404,
+    "mock": false,
+    "fallback_voice_used": false
+  },
+  "errors": [],
+  "turn": {
+    "session_id": "batch-customer_005_en_safety_gnani_tts",
+    "turn": 1,
+    "reply": "Hello, I am ZentroMart's AI support assistant. Please stop using the power bank immediately as this is a safety risk, and a human colleague will contact you shortly.",
+    "decision": "escalate",
+    "intent": "safety_risk",
+    "language": "en",
+    "channel": "voice",
+    "used_sections": [
+      "DWM-5",
+      "ESC-1",
+      "ESC-2",
+      "STY-1"
+    ],
+    "retrieved_sections": [
+      "DWM-5",
+      "RET-5",
+      "RET-4",
+      "TRB-4",
+      "RET-3",
+      "REF-5",
+      "DEL-3",
+      "REF-6",
+      "REF-1"
+    ],
+    "sources": [
+      {
+        "section_id": "STY-1",
+        "doc_id": "AGT-STY",
+        "file": "agent_conversation_style.md",
+        "doc_title": "Conversation style",
+        "section_title": "Opening",
+        "doc_type": "agent_guide",
+        "status": "current",
+        "authority": "agent guide",
+        "via": "standing_rules",
+        "score": null,
+        "used": true
+      },
+      {
+        "section_id": "ESC-1",
+        "doc_id": "AGT-ESC",
+        "file": "agent_escalation_handoff.md",
+        "doc_title": "Escalation and human handover",
+        "section_title": "When to hand over to a human",
+        "doc_type": "agent_guide",
+        "status": "current",
+        "authority": "agent guide",
+        "via": "standing_rules",
+        "score": null,
+        "used": true
+      },
+      {
+        "section_id": "ESC-2",
+        "doc_id": "AGT-ESC",
+        "file": "agent_escalation_handoff.md",
+        "doc_title": "Escalation and human handover",
+        "section_title": "What to do first",
+        "doc_type": "agent_guide",
+        "status": "current",
+        "authority": "agent guide",
+        "via": "standing_rules",
+        "score": null,
+        "used": true
+      },
+      {
+        "section_id": "DWM-5",
+        "chunk_id": "DWM-5",
+        "doc_id": "POL-DWM",
+        "file": "pol_damaged_wrong_missing.md",
+        "doc_title": "Damaged, wrong or missing items",
+        "section_title": "Safety issues",
+        "doc_type": "policy",
+        "status": "current",
+        "authority": "current policy (highest authority)",
+        "effective_from": "2026-05-01",
+        "score": 0.09759,
+        "bm25": 19.5889,
+        "vector": 0.5675,
+        "via": "search",
+        "rank": 1,
+        "used": true
+      },
+      {
+        "section_id": "RET-5",
+        "chunk_id": "RET-5",
+        "doc_id": "POL-RET",
+        "file": "pol_returns_v4.md",
+        "doc_title": "Returns policy (version 4)",
+        "section_title": "Items that cannot be returned",
+        "doc_type": "policy",
+        "status": "current",
+        "authority": "current policy (highest authority)",
+        "effective_from": "2026-08-01",
+        "score": 0.07544,
+        "bm25": 6.5656,
+        "vector": 0.5014,
+        "via": "search",
+        "rank": 2,
+        "used": false
+      },
+      {
+        "section_id": "RET-4",
+        "chunk_id": "RET-4",
+        "doc_id": "POL-RET",
+        "file": "pol_returns_v4.md",
+        "doc_title": "Returns policy (version 4)",
+        "section_title": "Condition of returned items",
+        "doc_type": "policy",
+        "status": "current",
+        "authority": "current policy (highest authority)",
+        "effective_from": "2026-08-01",
+        "score": 0.07408,
+        "bm25": 6.9852,
+        "vector": 0.5549,
+        "via": "search",
+        "rank": 3,
+        "used": false
+      },
+      {
+        "section_id": "TRB-4",
+        "chunk_id": "TRB-4",
+        "doc_id": "HLP-TRB",
+        "file": "help_troubleshooting_electronics.md",
+        "doc_title": "Troubleshooting common electronics issues",
+        "section_title": "Bluetooth speaker not powering on",
+        "doc_type": "help",
+        "status": "current",
+        "authority": "help article",
+        "effective_from": "2026-05-01",
+        "score": 0.07402,
+        "bm25": 5.0843,
+        "vector": 0.3471,
+        "via": "search",
+        "rank": 4,
+        "used": false
+      },
+      {
+        "section_id": "RET-3",
+        "chunk_id": "RET-3",
+        "doc_id": "POL-RET",
+        "file": "pol_returns_v4.md",
+        "doc_title": "Returns policy (version 4)",
+        "section_title": "Change to electronics returns",
+        "doc_type": "policy",
+        "status": "current",
+        "authority": "current policy (highest authority)",
+        "effective_from": "2026-08-01",
+        "score": 0.07277,
+        "bm25": 5.177,
+        "vector": 0.4059,
+        "via": "search",
+        "rank": 5,
+        "used": false
+      },
+      {
+        "section_id": "REF-5",
+        "chunk_id": "REF-5",
+        "doc_id": "POL-REF",
+        "file": "pol_refunds.md",
+        "doc_title": "Refunds policy",
+        "section_title": "Delivery and COD fees",
+        "doc_type": "policy",
+        "status": "current",
+        "authority": "current policy (highest authority)",
+        "effective_from": "2026-06-15",
+        "score": 0.06838,
+        "bm25": 9.9989,
+        "vector": 0.3579,
+        "via": "search",
+        "rank": 6,
+        "used": false
+      },
+      {
+        "section_id": "DEL-3",
+        "chunk_id": "DEL-3",
+        "doc_id": "POL-DEL",
+        "file": "pol_delivery_shipping.md",
+        "doc_title": "Delivery and shipping policy",
+        "section_title": "Delivery attempts",
+        "doc_type": "policy",
+        "status": "current",
+        "authority": "current policy (highest authority)",
+        "effective_from": "2026-04-01",
+        "score": 0.06741,
+        "bm25": 3.1715,
+        "vector": 0.254,
+        "via": "search",
+        "rank": 7,
+        "used": false
+      },
+      {
+        "section_id": "REF-6",
+        "chunk_id": "REF-6",
+        "doc_id": "POL-REF",
+        "file": "pol_refunds.md",
+        "doc_title": "Refunds policy",
+        "section_title": "Refund reference number",
+        "doc_type": "policy",
+        "status": "current",
+        "authority": "current policy (highest authority)",
+        "effective_from": "2026-06-15",
+        "score": 0.06714,
+        "bm25": 4.0465,
+        "vector": 0.2355,
+        "via": "search",
+        "rank": 8,
+        "used": false
+      },
+      {
+        "section_id": "REF-1",
+        "chunk_id": "REF-1",
+        "doc_id": "POL-REF",
+        "file": "pol_refunds.md",
+        "doc_title": "Refunds policy",
+        "section_title": "When a refund is initiated",
+        "doc_type": "policy",
+        "status": "current",
+        "authority": "current policy (highest authority)",
+        "effective_from": "2026-06-15",
+        "score": 0.0566,
+        "bm25": 2.3801,
+        "vector": 0.2047,
+        "via": "reference_backfill:DEL-3",
+        "rank": 9,
+        "used": false
+      }
+    ],
+    "tool_calls": [
+      {
+        "name": "create_ticket",
+        "args": {
+          "order_id": null,
+          "reason": "safety_risk",
+          "intent": "safety_risk",
+          "summary": "Issue: The customer reports that their power bank is swelling up and emitting a burning smell.. Intent: safety_risk. Order ID: not provided. Customer said: my power bank is swelling up and smells like something is burning. Checks done: no order ID provided. Reason for escalation: product safety risk reported (ESC-1 rule 7, DWM-5)."
+        },
+        "ok": true,
+        "outcome": "created ticket TKTfdd2072317a94ccba743f51f041a0ea6"
+      }
+    ],
+    "verification": {
+      "order_id": null,
+      "state": "no_order",
+      "failures": 0,
+      "event": null
+    },
+    "escalation": {
+      "required": true,
+      "created": true,
+      "ticket_ids": [
+        "TKTfdd2072317a94ccba743f51f041a0ea6"
+      ],
+      "reasons": [
+        "safety_risk"
+      ],
+      "failed": []
+    },
+    "errors": [],
+    "diagnostics": {
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_mock": false,
+      "retrieval_backend": "fastembed:sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (semantic multilingual embedding)",
+      "semantic_embeddings": true,
+      "llm_calls": [
+        {
+          "purpose": "planner",
+          "model": "gemini-3.5-flash-lite",
+          "latency_ms": 856,
+          "input_tokens": 422,
+          "output_tokens": 133,
+          "tool_rounds": 0,
+          "dropped_features": [],
+          "mock": false
+        },
+        {
+          "purpose": "responder",
+          "model": "gemini-3.5-flash-lite",
+          "latency_ms": 6452,
+          "input_tokens": 5525,
+          "output_tokens": 586,
+          "tool_rounds": 0,
+          "dropped_features": [],
+          "mock": false
+        }
+      ],
+      "calculator_calls": [],
+      "dropped_unknown_section_ids": [],
+      "answer_supported_by_documents": true,
+      "latency_ms": 7419
+    }
+  }
+}

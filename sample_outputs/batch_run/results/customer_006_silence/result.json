@@ -1,0 +1,57 @@
+{
+  "file": "customer_006_silence.wav",
+  "status": "empty_transcript",
+  "transcript": "",
+  "stt": {
+    "request_ids": [
+      "req_7c9dfcf5064d"
+    ],
+    "segments": 1,
+    "language_code": "en-IN",
+    "latency_ms": 891,
+    "mock": false
+  },
+  "tts": {
+    "voice": "Kaveri",
+    "language": "en-IN",
+    "model": "timbre-v2.5",
+    "latency_ms": 2053,
+    "mock": false,
+    "fallback_voice_used": false
+  },
+  "errors": [],
+  "turn": {
+    "session_id": "batch-customer_006_silence",
+    "turn": 1,
+    "reply": "Sorry, I didn't catch that. Could you say it again?",
+    "decision": "clarify",
+    "intent": "empty_input",
+    "language": "en",
+    "channel": "voice",
+    "used_sections": [],
+    "retrieved_sections": [],
+    "sources": [],
+    "tool_calls": [],
+    "verification": {
+      "order_id": null,
+      "state": "no_order",
+      "failures": 0
+    },
+    "escalation": {
+      "required": false,
+      "created": false,
+      "ticket_ids": [],
+      "reasons": [],
+      "failed": []
+    },
+    "errors": [],
+    "diagnostics": {
+      "llm_provider": "gemini",
+      "llm_model": "gemini-3.5-flash-lite",
+      "llm_mock": false,
+      "retrieval_backend": "fastembed:sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (semantic multilingual embedding)",
+      "semantic_embeddings": true,
+      "latency_ms": 0
+    }
+  }
+}

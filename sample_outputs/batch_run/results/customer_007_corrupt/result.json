@@ -1,0 +1,11 @@
+{
+  "file": "customer_007_corrupt.wav",
+  "status": "invalid_audio",
+  "transcript": "",
+  "stt": {},
+  "tts": {},
+  "errors": [
+    "customer_007_corrupt.wav is not a readable WAV file"
+  ],
+  "turn": null
+}
