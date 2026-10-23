@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ZentroMart Support</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo" aria-hidden="true">Z</div>
+    <div>
+      <div class="brand-name">ZentroMart Support</div>
+      <div class="brand-sub">Orders · returns · refunds · deliveries</div>
+    </div>
+  </div>
+  <div class="status" id="status">
+    <span class="chip" id="chip-llm">LLM …</span>
+    <span class="chip" id="chip-voice">Voice …</span>
+    <span class="chip" id="chip-rag">Retrieval …</span>
+  </div>
+  <button class="btn ghost" id="new-chat" type="button">New conversation</button>
+</header>
+
+<div class="disclosure" role="note">
+  You are chatting with <strong>ZentroMart's AI support assistant</strong>, not a human. It answers from ZentroMart's
+  policy documents and can hand you over to a human colleague. Demo data only — do not enter real personal details.
+</div>
+
+<main class="layout">
+  <section class="chat" aria-label="Conversation">
+    <div class="messages" id="messages" aria-live="polite"></div>
+    <div class="banner hidden" id="banner" role="alert"></div>
+    <form class="composer" id="composer" autocomplete="off">
+      <textarea id="input" rows="1" placeholder="Type your question… (e.g. How long do UPI refunds take?)" aria-label="Message"></textarea>
+      <div class="composer-actions">
+        <select id="lang" aria-label="Speech language" title="Language for speech recognition">
+          <option value="en-IN">Speak: English / Hinglish</option>
+          <option value="hi-IN">Speak: हिन्दी</option>
+        </select>
+        <button class="btn mic" id="mic" type="button" aria-label="Record voice message" title="Record (click again to stop)">
+          <span class="mic-dot"></span><span id="mic-label">Speak</span>
+        </button>
+        <button class="btn primary" id="send" type="submit">Send</button>
+      </div>
+    </form>
+  </section>
+
+  <aside class="panel" aria-label="Evidence and state">
+    <div class="panel-head">
+      <h2>Evidence &amp; state</h2>
+      <span class="muted" id="panel-turn">No turn yet</span>
+    </div>
+    <div id="outcome" class="outcome hidden"></div>
+    <h3>Sources used</h3>
+    <div id="used" class="chips muted">—</div>
+    <h3>Retrieved chunks</h3>
+    <div id="retrieved" class="list muted">—</div>
+    <h3>Tool calls</h3>
+    <div id="tools" class="list muted">—</div>
+    <h3>Conversation state</h3>
+    <dl id="state" class="kv"></dl>
+    <details class="diag">
+      <summary>Diagnostics</summary>
+      <pre id="diag"></pre>
+    </details>
+  </aside>
+</main>
+<script src="/static/app.js"></script>
+</body>
+</html>

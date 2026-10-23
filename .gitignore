@@ -1,0 +1,19 @@
+# secrets
+.env
+.env.*
+!.env.example
+# environments / caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# dataset copy (never commit; see README)
+dataset/
+Capstone_Project_Dataset_FTTT_2026/
+*.zip
+# runtime artefacts (index, models, tickets, temp audio, logs)
+runtime/
+output/
+outputs/
+*.log

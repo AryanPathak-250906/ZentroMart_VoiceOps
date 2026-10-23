@@ -1,0 +1,11 @@
+# Runtime dependencies (tested with the versions in requirements-lock.txt, Python 3.10–3.13)
+gnani-vachana>=0.8.1,<0.9      # Gnani STT/TTS — the only speech provider
+google-genai>=2.31,<3          # LLM_PROVIDER=gemini (default in .env.example)
+anthropic>=1.16,<2             # LLM_PROVIDER=anthropic
+fastembed>=0.9,<1              # multilingual sentence embeddings (ONNX, CPU)
+numpy>=1.26
+pydantic>=2.6,<3
+starlette>=0.40
+uvicorn>=0.30
+python-multipart>=0.0.9
+python-dotenv>=1.0

@@ -1,0 +1,1652 @@
+[
+ {
+  "id": "PQ0002",
+  "language": "hi-en",
+  "text": "so sku ele-zero zero one to pe zentromart assured hai kya claim kaise karein",
+  "retrieved": [
+   "DWM-3",
+   "MKS-3",
+   "WAR-2",
+   "WAR-3",
+   "WAR-1",
+   "CPN-1",
+   "RET-1",
+   "DWM-4"
+  ],
+  "products": [
+   "products.csv:ELE-0012"
+  ],
+  "kb_gold": [
+   "WAR-2"
+  ],
+  "kb_gold_hit": [
+   "WAR-2"
+  ],
+  "first_gold_rank": 3,
+  "product_gold": [
+   "products.csv:ELE-0012"
+  ],
+  "product_gold_hit": [
+   "products.csv:ELE-0012"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0003",
+  "language": "en",
+  "text": "how fast are refunds to the zentromart wallet",
+  "retrieved": [
+   "REF-3",
+   "REF-2",
+   "REF-1",
+   "RET-7",
+   "PAY-4",
+   "MKS-2",
+   "REF-6",
+   "CPN-3",
+   "REF-4"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.1"
+  ],
+  "hard_negatives": [
+   "FAQ-1"
+  ],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0004",
+  "language": "en",
+  "text": "uh can i schedule a delivery at midnight",
+  "retrieved": [
+   "DEL-1",
+   "DEL-2",
+   "DEL-4",
+   "PAY-2",
+   "CAN-3",
+   "DEL-3",
+   "PAY-1",
+   "PAY-3",
+   "REF-1"
+  ],
+  "products": [],
+  "kb_gold": [],
+  "kb_gold_hit": [],
+  "first_gold_rank": null,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0005",
+  "language": "hi-en",
+  "text": "uh sku ele-zero zero zero to pe zentromart assured hai kya claim kaise karein",
+  "retrieved": [
+   "DWM-3",
+   "MKS-3",
+   "WAR-3",
+   "WAR-2",
+   "WAR-1",
+   "RET-1",
+   "DWM-4",
+   "DEL-2"
+  ],
+  "products": [
+   "products.csv:ELE-0002"
+  ],
+  "kb_gold": [
+   "WAR-2"
+  ],
+  "kb_gold_hit": [
+   "WAR-2"
+  ],
+  "first_gold_rank": 4,
+  "product_gold": [
+   "products.csv:ELE-0002"
+  ],
+  "product_gold_hit": [
+   "products.csv:ELE-0002"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0006",
+  "language": "en",
+  "text": "uh as a zentromart plus member will i be charged the pickup fee for returning shoes i just dont like",
+  "retrieved": [
+   "RET-6",
+   "RET-7",
+   "DWM-2",
+   "PLS-1",
+   "DEL-2",
+   "PLS-2",
+   "REF-1",
+   "MKS-2"
+  ],
+  "products": [],
+  "kb_gold": [
+   "RET-6",
+   "PLS-2"
+  ],
+  "kb_gold_hit": [
+   "RET-6",
+   "PLS-2"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0008",
+  "language": "hi-en",
+  "text": "so credit card wala refund 17 october two zero two six ko shuru hua kab tak aa jaana chahiye",
+  "retrieved": [
+   "REF-6",
+   "REF-3",
+   "REF-1",
+   "PAY-1",
+   "RET-7",
+   "PAY-3",
+   "RET-8",
+   "REF-2",
+   "RET-2"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 8,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0009",
+  "language": "en",
+  "text": "uh is there a student discount",
+  "retrieved": [
+   "REF-4",
+   "CPN-3",
+   "PAY-2",
+   "PAY-1",
+   "RET-6",
+   "DEL-2",
+   "PLS-1",
+   "DWM-2"
+  ],
+  "products": [],
+  "kb_gold": [],
+  "kb_gold_hit": [],
+  "first_gold_rank": null,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0010",
+  "language": "en",
+  "text": "is the free if the urbanthread slim fit jeans came torn",
+  "retrieved": [
+   "DWM-2",
+   "RET-4",
+   "DWM-1",
+   "RET-6",
+   "RET-5",
+   "DWM-4",
+   "REF-5",
+   "DEL-2"
+  ],
+  "products": [
+   "products.csv:FSH-0030",
+   "products.csv:FSH-0029"
+  ],
+  "kb_gold": [
+   "RET-6",
+   "DWM-2"
+  ],
+  "kb_gold_hit": [
+   "RET-6",
+   "DWM-2"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0013",
+  "language": "hi",
+  "text": "मैंने Gulmohar Matte Lipstick खोल लिया है क्या अब भी वापस कर सकती हूँ",
+  "retrieved": [
+   "RET-4",
+   "CPN-3",
+   "RET-3",
+   "RET-5",
+   "DWM-4",
+   "RET-8",
+   "RET-2",
+   "FAQ-2",
+   "REF-4"
+  ],
+  "products": [
+   "products.csv:BTY-0052"
+  ],
+  "kb_gold": [
+   "RET-4"
+  ],
+  "kb_gold_hit": [
+   "RET-4"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0014",
+  "language": "hi",
+  "text": "मुझे Pagecraft A5 Ruled Notebook Pack of 4 लौटाने के कितने दिन मिलेंगे",
+  "retrieved": [
+   "RET-3",
+   "RET-2",
+   "RET-7",
+   "RET-8",
+   "REF-1",
+   "REF-2",
+   "DWM-4",
+   "DEL-1"
+  ],
+  "products": [
+   "products.csv:BKS-0056"
+  ],
+  "kb_gold": [
+   "RET-2"
+  ],
+  "kb_gold_hit": [
+   "RET-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [
+   "products.csv:BKS-0056"
+  ],
+  "product_gold_hit": [
+   "products.csv:BKS-0056"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0015",
+  "language": "hi-en",
+  "text": "bulk order gst invoice milega kya",
+  "retrieved": [
+   "REF-4",
+   "MKS-1",
+   "CAN-4",
+   "CAN-2",
+   "CPN-1",
+   "CAN-1",
+   "RVP-1",
+   "TRK-1",
+   "RET-6",
+   "DEL-3",
+   "REF-1",
+   "RET-4"
+  ],
+  "products": [],
+  "kb_gold": [],
+  "kb_gold_hit": [],
+  "first_gold_rank": null,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0016",
+  "language": "en",
+  "text": "i opened the neelam eau de parfum 50 ml and tried it once can i still return it",
+  "retrieved": [
+   "RET-4",
+   "DWM-4",
+   "RET-2",
+   "RET-7",
+   "RET-3",
+   "REF-1",
+   "DWM-5",
+   "DEL-3"
+  ],
+  "products": [
+   "products.csv:BTY-0055"
+  ],
+  "kb_gold": [
+   "RET-4",
+   "RET-2"
+  ],
+  "kb_gold_hit": [
+   "RET-4",
+   "RET-2"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0018",
+  "language": "hi",
+  "text": "कितने दिन में वापस करना होगा",
+  "retrieved": [
+   "RET-3",
+   "RET-8",
+   "REF-2",
+   "RET-2",
+   "REF-1",
+   "DEL-1",
+   "RET-7",
+   "DWM-4"
+  ],
+  "products": [],
+  "kb_gold": [
+   "RET-2"
+  ],
+  "kb_gold_hit": [
+   "RET-2"
+  ],
+  "first_gold_rank": 4,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0019",
+  "language": "en",
+  "text": "my orbix fit 3 pro smartwatch was delivered on 20 july what was the return window for it",
+  "retrieved": [
+   "RET-3",
+   "RETv3-2",
+   "RETv3-6",
+   "TRB-2",
+   "RET-2",
+   "RET-9",
+   "RET-8",
+   "RET-1"
+  ],
+  "products": [
+   "products.csv:ELE-0017"
+  ],
+  "kb_gold": [
+   "RET-3",
+   "RETv3-2"
+  ],
+  "kb_gold_hit": [
+   "RET-3",
+   "RETv3-2"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0020",
+  "language": "hi",
+  "text": "मुझे Sootra Canvas Tote Bag लौटाने के लिए कितने दिन मिलेंगे",
+  "retrieved": [
+   "RET-8",
+   "RET-2",
+   "RET-3",
+   "RET-7",
+   "DEL-1",
+   "REF-1",
+   "REF-2",
+   "RET-6"
+  ],
+  "products": [
+   "products.csv:FSH-0038",
+   "products.csv:FSH-0037"
+  ],
+  "kb_gold": [
+   "RET-2",
+   "RET-8"
+  ],
+  "kb_gold_hit": [
+   "RET-2",
+   "RET-8"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [
+   "products.csv:FSH-0038"
+  ],
+  "product_gold_hit": [
+   "products.csv:FSH-0038"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0021",
+  "language": "en",
+  "text": "what happens if im not home when the courier comes",
+  "retrieved": [
+   "DEL-3",
+   "REF-1",
+   "DEL-6",
+   "REF-5",
+   "TRK-1",
+   "CAN-2",
+   "DEL-4",
+   "PAY-3"
+  ],
+  "products": [],
+  "kb_gold": [
+   "DEL-3"
+  ],
+  "kb_gold_hit": [
+   "DEL-3"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0022",
+  "language": "en",
+  "text": "my refund to credit card was started on 17 october two zero two six by which date should i have it",
+  "retrieved": [
+   "REF-3",
+   "REF-2",
+   "REF-6",
+   "RET-7",
+   "REF-1",
+   "PAY-3",
+   "RET-8",
+   "REF-5",
+   "RET-2"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0023",
+  "language": "en",
+  "text": "theres an order on my account that i never placed",
+  "retrieved": [
+   "PAY-4",
+   "PAY-3",
+   "CPN-1",
+   "CAN-2",
+   "CAN-1",
+   "RET-4",
+   "REF-3",
+   "TRK-1",
+   "DEL-3",
+   "REF-1"
+  ],
+  "products": [],
+  "kb_gold": [],
+  "kb_gold_hit": [],
+  "first_gold_rank": null,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "ESC-1"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0024",
+  "language": "en",
+  "text": "how long do i get to send back the rangoli cotton straight kurta",
+  "retrieved": [
+   "RET-3",
+   "RET-8",
+   "DEL-1",
+   "REF-1",
+   "DEL-3",
+   "RET-7",
+   "RET-2",
+   "REF-2"
+  ],
+  "products": [
+   "products.csv:FSH-0026"
+  ],
+  "kb_gold": [
+   "RET-2",
+   "RET-8"
+  ],
+  "kb_gold_hit": [
+   "RET-2",
+   "RET-8"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [
+   "products.csv:FSH-0026"
+  ],
+  "product_gold_hit": [
+   "products.csv:FSH-0026"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0025",
+  "language": "en",
+  "text": "if i paid with net banking how soon will the re fund show up",
+  "retrieved": [
+   "REF-3",
+   "REF-2",
+   "REF-1",
+   "PAY-3",
+   "RET-7",
+   "PAY-1",
+   "REF-6",
+   "PAY-4"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.1"
+  ],
+  "hard_negatives": [
+   "FAQ-1"
+  ],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0026",
+  "language": "en",
+  "text": "what warranty comes with the voltra powercell one zero zero zero zero mah power bank green sku ele-zero zero zero eight",
+  "retrieved": [
+   "WAR-3",
+   "WAR-1",
+   "CPN-1",
+   "WAR-2",
+   "TRB-3",
+   "TRB-4",
+   "MKS-3",
+   "REF-6"
+  ],
+  "products": [
+   "products.csv:ELE-0008"
+  ],
+  "kb_gold": [
+   "WAR-1",
+   "WAR-2"
+  ],
+  "kb_gold_hit": [
+   "WAR-1",
+   "WAR-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [
+   "products.csv:ELE-0008"
+  ],
+  "product_gold_hit": [
+   "products.csv:ELE-0008"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0027",
+  "language": "hi-en",
+  "text": "uh u p i wala refund 12 october to zero to six ko shuru hua kab tak aa jaana chahiye",
+  "retrieved": [
+   "RET-8",
+   "REF-1",
+   "REF-6",
+   "RET-7",
+   "REF-3",
+   "REF-5",
+   "CPN-3",
+   "PAY-3",
+   "RET-2",
+   "REF-4"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [],
+  "first_gold_rank": null,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0028",
+  "language": "en",
+  "text": "my re fund to net banking was started on 14 october two zero two six by which date should i have it",
+  "retrieved": [
+   "REF-3",
+   "REF-2",
+   "REF-6",
+   "PAY-3",
+   "RET-7",
+   "RET-2",
+   "RET-8",
+   "DEL-1"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0029",
+  "language": "hi-en",
+  "text": "uh credit card wala refund 12 october two zero two six ko shuru hua kab tak aa jaana chahiye",
+  "retrieved": [
+   "REF-6",
+   "REF-3",
+   "REF-1",
+   "PAY-1",
+   "RET-7",
+   "REF-2",
+   "PAY-3",
+   "RET-8",
+   "RET-2"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 6,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0030",
+  "language": "en",
+  "text": "the kestrel book 14 laptop sku ele-zero zero to three i received yesterday has a crack i want it sorted",
+  "retrieved": [
+   "DWM-1",
+   "DWM-2",
+   "TRK-2",
+   "TRB-2",
+   "DWM-3",
+   "DWM-4",
+   "PLS-3",
+   "RET-6",
+   "WAR-1"
+  ],
+  "products": [
+   "products.csv:ELE-0023"
+  ],
+  "kb_gold": [
+   "DWM-3"
+  ],
+  "kb_gold_hit": [
+   "DWM-3"
+  ],
+  "first_gold_rank": 5,
+  "product_gold": [
+   "products.csv:ELE-0023"
+  ],
+  "product_gold_hit": [
+   "products.csv:ELE-0023"
+  ],
+  "standing_gold": [
+   "ESC-1"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0031",
+  "language": "en",
+  "text": "my bluetooth speaker wont turn on at all",
+  "retrieved": [
+   "TRB-4",
+   "DWM-5",
+   "TRB-2",
+   "TRB-3",
+   "TRB-1",
+   "DWM-2",
+   "DWM-1",
+   "REF-5",
+   "RET-3",
+   "WAR-1"
+  ],
+  "products": [],
+  "kb_gold": [
+   "TRB-4"
+  ],
+  "kb_gold_hit": [
+   "TRB-4"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0032",
+  "language": "hi-en",
+  "text": "sku ele-zero zero zero three pe zentromart assured hai kya claim kaise karein",
+  "retrieved": [
+   "DWM-3",
+   "WAR-3",
+   "WAR-2",
+   "MKS-3",
+   "WAR-1",
+   "RET-1",
+   "DWM-4",
+   "TRB-3"
+  ],
+  "products": [
+   "products.csv:ELE-0003"
+  ],
+  "kb_gold": [
+   "WAR-2"
+  ],
+  "kb_gold_hit": [
+   "WAR-2"
+  ],
+  "first_gold_rank": 3,
+  "product_gold": [
+   "products.csv:ELE-0003"
+  ],
+  "product_gold_hit": [
+   "products.csv:ELE-0003"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0033",
+  "language": "en",
+  "text": "my refund to net banking was started on 17 october two zero two six by which date should i it",
+  "retrieved": [
+   "REF-3",
+   "REF-6",
+   "RET-7",
+   "REF-2",
+   "REF-1",
+   "PAY-3",
+   "REF-5",
+   "RET-8",
+   "RET-2"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 4,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0034",
+  "language": "en",
+  "text": "haan can you deliver to dubai",
+  "retrieved": [
+   "DEL-5",
+   "FAQ-5",
+   "TRK-1",
+   "TRK-2",
+   "REF-1",
+   "RET-3",
+   "RETv3-6",
+   "RETv3-2",
+   "DEL-3",
+   "DWM-4",
+   "RET-2",
+   "DWM-1"
+  ],
+  "products": [],
+  "kb_gold": [
+   "DEL-5",
+   "FAQ-5"
+  ],
+  "kb_gold_hit": [
+   "DEL-5",
+   "FAQ-5"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0035",
+  "language": "hi-en",
+  "text": "net banking wala refund 12 october to zero to six ko shuru hua kab tak aa jaana chahiye",
+  "retrieved": [
+   "REF-3",
+   "REF-6",
+   "REF-1",
+   "RET-7",
+   "REF-2",
+   "PAY-4",
+   "PAY-1",
+   "REF-5"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 5,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0036",
+  "language": "en",
+  "text": "the comfi one-piece swimsuit doesnt fit can i send it back",
+  "retrieved": [
+   "RET-5",
+   "RET-4",
+   "RET-8",
+   "RET-6",
+   "CAN-2",
+   "RET-9",
+   "REF-5",
+   "DWM-4",
+   "RET-2",
+   "REF-1"
+  ],
+  "products": [
+   "products.csv:INR-0068",
+   "products.csv:INR-0067"
+  ],
+  "kb_gold": [
+   "RET-2",
+   "RET-5"
+  ],
+  "kb_gold_hit": [
+   "RET-2",
+   "RET-5"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [
+   "products.csv:INR-0068"
+  ],
+  "product_gold_hit": [
+   "products.csv:INR-0068"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0037",
+  "language": "hi",
+  "text": "क्या आपकी कोई दुकान कोच्चि में है",
+  "retrieved": [
+   "FAQH-4",
+   "FAQH-1",
+   "FAQH-3",
+   "FAQH-2",
+   "MKS-1",
+   "MKS-3",
+   "TRK-1",
+   "MKS-2",
+   "PLS-2",
+   "CAN-1",
+   "DWM-1",
+   "REF-3",
+   "DEL-3",
+   "REF-1"
+  ],
+  "products": [],
+  "kb_gold": [],
+  "kb_gold_hit": [],
+  "first_gold_rank": null,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0039",
+  "language": "en",
+  "text": "the comfi cotton briefs pack of 3 doesnt fit can i send it back",
+  "retrieved": [
+   "RET-5",
+   "RET-8",
+   "RET-9",
+   "RET-2",
+   "DEL-3",
+   "RET-4",
+   "RET-3",
+   "RET-6",
+   "REF-1"
+  ],
+  "products": [
+   "products.csv:INR-0065",
+   "products.csv:INR-0064"
+  ],
+  "kb_gold": [
+   "RET-2",
+   "RET-5"
+  ],
+  "kb_gold_hit": [
+   "RET-2",
+   "RET-5"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [
+   "products.csv:INR-0065"
+  ],
+  "product_gold_hit": [
+   "products.csv:INR-0065"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0040",
+  "language": "hi",
+  "text": "ऑर्डर शिप हो गया है क्या अब कैंसिल हो सकता है",
+  "retrieved": [
+   "CAN-2",
+   "CAN-1",
+   "CAN-4",
+   "DEL-6",
+   "FAQH-1",
+   "REF-1",
+   "DEL-3",
+   "CAN-3",
+   "REF-4"
+  ],
+  "products": [],
+  "kb_gold": [
+   "FAQH-1",
+   "CAN-2"
+  ],
+  "kb_gold_hit": [
+   "FAQH-1",
+   "CAN-2"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0041",
+  "language": "en",
+  "text": "haan what warranty comes with the x2 pro wireless earbuds blue sku ele-zero zero zero three",
+  "retrieved": [
+   "WAR-1",
+   "TRB-1",
+   "WAR-3",
+   "TRB-4",
+   "WAR-2",
+   "TRB-2",
+   "TRB-3",
+   "MKS-3"
+  ],
+  "products": [
+   "products.csv:ELE-0003"
+  ],
+  "kb_gold": [
+   "WAR-1",
+   "WAR-2"
+  ],
+  "kb_gold_hit": [
+   "WAR-1",
+   "WAR-2"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [
+   "products.csv:ELE-0003"
+  ],
+  "product_gold_hit": [
+   "products.csv:ELE-0003"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0042",
+  "language": "en",
+  "text": "my order is already on its way can i still stop it",
+  "retrieved": [
+   "CAN-1",
+   "CAN-2",
+   "CAN-4",
+   "CAN-3",
+   "REF-1",
+   "DEL-6",
+   "TRK-1",
+   "REF-5",
+   "DEL-3",
+   "REF-4"
+  ],
+  "products": [],
+  "kb_gold": [
+   "CAN-2"
+  ],
+  "kb_gold_hit": [
+   "CAN-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0044",
+  "language": "hi",
+  "text": "मुझे Aangan Cotton Double Bedsheet Set लौटाने के लिए कितने दिन मिलेंगे",
+  "retrieved": [
+   "RET-3",
+   "RET-2",
+   "RET-8",
+   "DEL-1",
+   "RET-7",
+   "REF-2",
+   "DWM-4",
+   "REF-1"
+  ],
+  "products": [
+   "products.csv:HOM-0046",
+   "products.csv:HOM-0045"
+  ],
+  "kb_gold": [
+   "RET-2"
+  ],
+  "kb_gold_hit": [
+   "RET-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [
+   "products.csv:HOM-0046"
+  ],
+  "product_gold_hit": [
+   "products.csv:HOM-0046"
+  ],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0045",
+  "language": "en",
+  "text": "uh how long does a refund to u p i take",
+  "retrieved": [
+   "REF-1",
+   "REF-2",
+   "REF-3",
+   "RET-7",
+   "REF-6",
+   "FAQ-1",
+   "REF-5",
+   "PAY-3"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.1"
+  ],
+  "hard_negatives": [
+   "FAQ-1"
+  ],
+  "hard_negative_retrieved": [
+   "FAQ-1"
+  ]
+ },
+ {
+  "id": "PQ0046",
+  "language": "en",
+  "text": "uh the kestrel book 14 laptop sku ele-zero zero two two i received yesterday has a crack i want it sorted",
+  "retrieved": [
+   "DWM-1",
+   "DWM-2",
+   "TRK-2",
+   "TRB-2",
+   "DWM-3",
+   "DWM-4",
+   "PLS-3",
+   "RET-6",
+   "WAR-1"
+  ],
+  "products": [
+   "products.csv:ELE-0022"
+  ],
+  "kb_gold": [
+   "DWM-3"
+  ],
+  "kb_gold_hit": [
+   "DWM-3"
+  ],
+  "first_gold_rank": 5,
+  "product_gold": [
+   "products.csv:ELE-0022"
+  ],
+  "product_gold_hit": [
+   "products.csv:ELE-0022"
+  ],
+  "standing_gold": [
+   "ESC-1"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0047",
+  "language": "en",
+  "text": "haan my express order arrived a day late do i get anything back",
+  "retrieved": [
+   "DEL-4",
+   "DEL-1",
+   "DEL-2",
+   "PAY-3",
+   "REF-1",
+   "DEL-3",
+   "RET-8",
+   "CAN-3",
+   "RET-2"
+  ],
+  "products": [],
+  "kb_gold": [
+   "DEL-4"
+  ],
+  "kb_gold_hit": [
+   "DEL-4"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0048",
+  "language": "hi",
+  "text": "मेरा टूटा हुआ आया है अब क्या करूँ",
+  "retrieved": [
+   "DWM-1",
+   "RET-5",
+   "DWM-2",
+   "DWM-4",
+   "RET-4",
+   "DWM-3",
+   "DWM-5",
+   "FAQH-3"
+  ],
+  "products": [],
+  "kb_gold": [
+   "FAQH-3",
+   "DWM-1"
+  ],
+  "kb_gold_hit": [
+   "FAQH-3",
+   "DWM-1"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0049",
+  "language": "en",
+  "text": "so i bought the rangoli cotton straight kurtha in the sale on 5 october how long can i return it",
+  "retrieved": [
+   "RET-8",
+   "RET-1",
+   "RET-3",
+   "RET-2",
+   "RET-7",
+   "REF-1",
+   "DEL-1",
+   "RET-6"
+  ],
+  "products": [
+   "products.csv:FSH-0026"
+  ],
+  "kb_gold": [
+   "RET-8"
+  ],
+  "kb_gold_hit": [
+   "RET-8"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0050",
+  "language": "en",
+  "text": "i paid cash on delivery and returned the item how do i get my money back",
+  "retrieved": [
+   "PAY-3",
+   "REF-5",
+   "PAY-1",
+   "PAY-2",
+   "REF-3",
+   "DWM-2",
+   "PAY-4",
+   "RET-6"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-3",
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-3"
+  ],
+  "first_gold_rank": 5,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0051",
+  "language": "en",
+  "text": "hello when will my refund come",
+  "retrieved": [
+   "REF-6",
+   "RET-7",
+   "REF-3",
+   "REF-1",
+   "REF-2",
+   "REF-5",
+   "REF-4",
+   "CPN-3"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 5,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0052",
+  "language": "hi-en",
+  "text": "net banking wala refund 17 october two zero two six ko shuru hua kab tak aa jaana chahiye",
+  "retrieved": [
+   "REF-3",
+   "REF-6",
+   "RET-7",
+   "REF-1",
+   "PAY-1",
+   "CPN-3",
+   "PAY-4",
+   "REF-2",
+   "REF-4"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 8,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0053",
+  "language": "en",
+  "text": "can i pick up my order from a store near me",
+  "retrieved": [
+   "RVP-1",
+   "CAN-3",
+   "CAN-1",
+   "REF-1",
+   "WAR-2",
+   "CAN-2",
+   "RVP-3",
+   "MKS-2",
+   "RET-6",
+   "RET-4"
+  ],
+  "products": [],
+  "kb_gold": [],
+  "kb_gold_hit": [],
+  "first_gold_rank": null,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0054",
+  "language": "hi-en",
+  "text": "hello sale mein 10 october ko order kiya tha urbanthread slim fit jeans return ke kitne din hain",
+  "retrieved": [
+   "RET-8",
+   "RET-2",
+   "RET-3",
+   "DEL-1",
+   "REF-1",
+   "RET-7",
+   "RET-6",
+   "RVP-1",
+   "RET-4"
+  ],
+  "products": [
+   "products.csv:FSH-0030",
+   "products.csv:FSH-0029"
+  ],
+  "kb_gold": [
+   "RET-8"
+  ],
+  "kb_gold_hit": [
+   "RET-8"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0056",
+  "language": "en",
+  "text": "uh i bought the sootra canvas tote bag in the sale on 5 october how long can i return it",
+  "retrieved": [
+   "RET-8",
+   "RET-2",
+   "REF-1",
+   "RET-6",
+   "RET-7",
+   "REF-3",
+   "DEL-1",
+   "RET-1"
+  ],
+  "products": [
+   "products.csv:FSH-0038",
+   "products.csv:FSH-0037"
+  ],
+  "kb_gold": [
+   "RET-8"
+  ],
+  "kb_gold_hit": [
+   "RET-8"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0057",
+  "language": "en",
+  "text": "is it still ten days to return electronics like the orbix fit 3 pro smartwatch",
+  "retrieved": [
+   "RET-3",
+   "RET-2",
+   "TRB-2",
+   "DWM-4",
+   "RET-4",
+   "REF-2",
+   "TRB-1",
+   "REF-1"
+  ],
+  "products": [
+   "products.csv:ELE-0017"
+  ],
+  "kb_gold": [
+   "RET-3"
+  ],
+  "kb_gold_hit": [
+   "RET-3"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [
+   "RETv3-2"
+  ],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0058",
+  "language": "hi-en",
+  "text": "mera order kestrel k7 smartphone to five six gb parso deliver hua kitne din tak return kar sakti hoon",
+  "retrieved": [
+   "RET-3",
+   "DEL-1",
+   "RET-8",
+   "DEL-3",
+   "RET-2",
+   "DEL-5",
+   "REF-1",
+   "PAY-3"
+  ],
+  "products": [
+   "products.csv:ELE-0014",
+   "products.csv:ELE-0013",
+   "products.csv:ELE-0012",
+   "products.csv:ELE-0011"
+  ],
+  "kb_gold": [
+   "RET-2",
+   "RET-3"
+  ],
+  "kb_gold_hit": [
+   "RET-2",
+   "RET-3"
+  ],
+  "first_gold_rank": 1,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [],
+  "hard_negatives": [
+   "RETv3-2"
+  ],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0059",
+  "language": "en",
+  "text": "so my refund to upi was started on 17 october two zero two six by which date should i have it",
+  "retrieved": [
+   "RET-7",
+   "REF-2",
+   "REF-1",
+   "REF-3",
+   "RET-8",
+   "PAY-3",
+   "REF-6",
+   "REF-5",
+   "RET-2"
+  ],
+  "products": [],
+  "kb_gold": [
+   "REF-2"
+  ],
+  "kb_gold_hit": [
+   "REF-2"
+  ],
+  "first_gold_rank": 2,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "KB-00.3"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ },
+ {
+  "id": "PQ0060",
+  "language": "en",
+  "text": "hello tell me the phone number of the person who ordered to my building yesterday",
+  "retrieved": [
+   "TRK-2",
+   "CAN-3",
+   "DEL-1",
+   "CAN-2",
+   "DEL-6",
+   "PAY-2",
+   "PAY-3",
+   "CAN-1",
+   "DWM-4",
+   "DWM-1",
+   "REF-1"
+  ],
+  "products": [],
+  "kb_gold": [],
+  "kb_gold_hit": [],
+  "first_gold_rank": null,
+  "product_gold": [],
+  "product_gold_hit": [],
+  "standing_gold": [
+   "ESC-4",
+   "IDV-4"
+  ],
+  "hard_negatives": [],
+  "hard_negative_retrieved": []
+ }
+]

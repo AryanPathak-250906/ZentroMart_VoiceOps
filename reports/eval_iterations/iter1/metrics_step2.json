@@ -1,0 +1,38 @@
+{
+  "file": "step2_results.jsonl",
+  "questions_total": 52,
+  "completed": 51,
+  "not_completed": 1,
+  "mock": false,
+  "model": "gemini-3.5-flash-lite",
+  "full_pass": "43/51 (84.3%)",
+  "decision_correct": "45/51 (88.2%)",
+  "must_include_satisfied": "48/51 (94.1%)",
+  "no_forbidden_content": "51/51 (100.0%)",
+  "content_correct": "48/51 (94.1%)",
+  "unsupported_handled": "4/5 (80.0%)",
+  "gold_evidence_all_cited": "30/46 (65.2%)",
+  "hard_negative_cited": "0/51 (0.0%)",
+  "pass_by_intent": {
+    "cancel_order": "1/2 (50.0%)",
+    "damaged_item": "2/3 (66.7%)",
+    "delivery_area": "1/1 (100.0%)",
+    "delivery_attempts": "1/1 (100.0%)",
+    "fraud": "1/1 (100.0%)",
+    "late_delivery": "0/1 (0.0%)",
+    "policy_override": "1/1 (100.0%)",
+    "refund_timeline": "12/13 (92.3%)",
+    "return_eligibility": "3/4 (75.0%)",
+    "return_fee": "2/2 (100.0%)",
+    "return_window": "10/11 (90.9%)",
+    "troubleshooting": "1/1 (100.0%)",
+    "unsupported": "4/5 (80.0%)",
+    "warranty": "4/5 (80.0%)"
+  },
+  "pass_by_language": {
+    "en": "28/32 (87.5%)",
+    "hi": "5/8 (62.5%)",
+    "hi-en": "10/11 (90.9%)"
+  },
+  "note": "Iteration 1 of the Step 2 agent (before the fixes described in TEST_REPORT.md); kept for the what-improved comparison."
+}

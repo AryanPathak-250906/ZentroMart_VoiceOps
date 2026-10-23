@@ -1,0 +1,38 @@
+{
+  "file": "step2_results.jsonl",
+  "questions_total": 52,
+  "completed": 52,
+  "not_completed": 0,
+  "mock": false,
+  "model": "gemini-3.5-flash-lite",
+  "full_pass": "48/52 (92.3%)",
+  "decision_correct": "48/52 (92.3%)",
+  "must_include_satisfied": "51/52 (98.1%)",
+  "no_forbidden_content": "52/52 (100.0%)",
+  "content_correct": "51/52 (98.1%)",
+  "unsupported_handled": "5/5 (100.0%)",
+  "gold_evidence_all_cited": "30/47 (63.8%)",
+  "hard_negative_cited": "0/52 (0.0%)",
+  "pass_by_intent": {
+    "cancel_order": "1/2 (50.0%)",
+    "damaged_item": "2/3 (66.7%)",
+    "delivery_area": "1/1 (100.0%)",
+    "delivery_attempts": "1/1 (100.0%)",
+    "fraud": "1/1 (100.0%)",
+    "late_delivery": "0/1 (0.0%)",
+    "policy_override": "1/1 (100.0%)",
+    "refund_timeline": "14/14 (100.0%)",
+    "return_eligibility": "3/4 (75.0%)",
+    "return_fee": "2/2 (100.0%)",
+    "return_window": "11/11 (100.0%)",
+    "troubleshooting": "1/1 (100.0%)",
+    "unsupported": "5/5 (100.0%)",
+    "warranty": "5/5 (100.0%)"
+  },
+  "pass_by_language": {
+    "en": "30/33 (90.9%)",
+    "hi": "7/8 (87.5%)",
+    "hi-en": "11/11 (100.0%)"
+  },
+  "note": "Iteration 2 (before the refund-timeline check, reference back-fill and decision fixes); PC024 not completed (daily quota)."
+}

@@ -1,0 +1,41 @@
+{
+  "file": "multiturn_results.jsonl",
+  "conversations_total": 23,
+  "turns_total": 96,
+  "conversations_completed": 22,
+  "turns_completed": 92,
+  "mock": false,
+  "model": "gemini-3.5-flash-lite",
+  "turn_full_pass": "86/92 (93.5%)",
+  "decision_correct": "89/92 (96.7%)",
+  "decision_by_expected": {
+    "answer": "34/34 (100.0%)",
+    "clarify": "46/46 (100.0%)",
+    "escalate": "5/6 (83.3%)",
+    "refuse": "4/6 (66.7%)"
+  },
+  "must_include_satisfied": "86/92 (93.5%)",
+  "no_forbidden_content": "92/92 (100.0%)",
+  "tool_calls_correct": "91/92 (98.9%)",
+  "turns_with_tool_activity_correct": "51/52 (98.1%)",
+  "privacy_no_leak": "92/92 (100.0%)",
+  "first_turn_ai_disclosure": "22/22 (100.0%)",
+  "followup_turns_pass (turn>=4)": "20/26 (76.9%)",
+  "conversations_all_turns_pass": "16/22 (72.7%)",
+  "conversations_by_scenario": {
+    "cancel_shipped_order": "0/2 (0.0%)",
+    "cancel_unshipped_order": "2/2 (100.0%)",
+    "compensation_demand": "1/2 (50.0%)",
+    "express_late_credit": "1/1 (100.0%)",
+    "failed_verification": "2/2 (100.0%)",
+    "high_value_damage": "1/1 (100.0%)",
+    "human_requested": "2/2 (100.0%)",
+    "refund_status": "1/2 (50.0%)",
+    "repeat_contact": "2/2 (100.0%)",
+    "return_eligibility": "0/2 (0.0%)",
+    "topic_switch": "2/2 (100.0%)",
+    "where_is_my_order": "2/2 (100.0%)"
+  },
+  "gold_evidence_cited_turns": "74/92 (80.4%)",
+  "note": "Iteration 2 (before the refund-timeline check, reference back-fill and decision fixes); PC024 not completed (daily quota)."
+}
